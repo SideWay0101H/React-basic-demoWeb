@@ -1,0 +1,21 @@
+.list-user-container{
+    .title{
+    color: cyan;
+    height: 40px;
+    margin: 5px;
+    padding: 10px;
+    font-size: larger;
+
+    }
+    .list-user-content{
+
+        .child {
+            cursor: pointer;
+            height: 35px;
+            width: 400px;
+            margin: 0 auto;
+            border: 1px solid;
+        }
+    }
+}
+

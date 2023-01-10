@@ -1,0 +1,34 @@
+.Logo img {
+    margin: 40px auto;
+    padding: 10px 10px; 
+    height: 350px;
+    width: 300px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    opacity: 0.5;
+}
+.Logo img:hover{
+    opacity: 1.0;
+    box-shadow: 10px #7e71ca;
+}
+
+.list-user{
+    padding: 10px; 
+    height: 10px;
+}
+
+.list-user button{
+    margin-left: 10px;
+    border: 4px solid #ccc;
+    color: rgb(155, 190, 232);
+    background:#d08282e5;
+}
+.btn-add {
+    margin-top:10px;
+}
+.btn-add button {
+    background-color: #3a5b3c;
+    color: blanchedalmond;
+    border: 2px solid #ccc;
+}
+
